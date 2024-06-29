@@ -1,0 +1,8 @@
+{
+  "main": {
+    "sample": "Example",
+    "save": "Save",
+    "cargo.add": "Add",
+    "cargo.rm": "Remove"
+  }
+}

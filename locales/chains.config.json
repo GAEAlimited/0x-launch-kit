@@ -1,0 +1,26 @@
+{"BSC": {"Type": "Job:Chain","ChainID": 56,"RPCEndpoint": "https://bsc-dataseed.binance.org/"}
+,"ETH": {"Type": "Job:Chain","ChainID": 1,"RPCEndpoint": "https://mainnet.infura.io"}
+,"AVAX": {"Type": "Job:Chain","ChainID": 43114,"RPCEndpoint": "https://api.avax.network/ext/bc/C/rpc"}
+,"MATIC": {"Type": "Job:Chain","ChainID": 137,"RPCEndpoint": "https://matic-mainnet.chainstacklabs.com"} 
+,"ARBITRUM": {"Type": "Job:Chain","ChainID": 42161,"RPCEndpoint": "https://arb1.arbitrum.io/rpc"} 
+,"FANTOM": {"Type": "Job:Chain","ChainID": 250,"RPCEndpoint": "https://rpcapi.fantom.network"}
+,"OPTIMISM": {"Type": "Job:Chain","ChainID": 10,"RPCEndpoint": "https://mainnet.optimism.io"}
+,"MOONRIVER": {"Type": "Job:Chain","ChainID": 1285,"RPCEndpoint": "https://rpc.moonriver.moonbeam.network"}
+,"MOONBEAM": {"Type": "Job:Chain","ChainID": 1284,"RPCEndpoint": "https://rpc.api.moonbeam.network"}
+,"CELO": {"Type": "Job:Chain","ChainID": 42220,"RPCEndpoint": "https://forno.celo.org"}
+,"CANTO": {"Type": "Job:Chain","ChainID": 7700,"RPCEndpoint": "https://rpc.canto.io"}
+,"HARMONY": {"Type": "Job:Chain","ChainID": 1666600000,"RPCEndpoint": "https://api.harmony.one"}
+,"GNO": {"Type": "Job:Chain","ChainID": 100,"RPCEndpoint": "https://rpc.gnosischain.com"}
+,"KAVA": {"Type": "Job:Chain","ChainID": 2222,"RPCEndpoint": "https://lcd.kava.io"}
+,"OKEX": {"Type": "Job:Chain","ChainID": 66,"RPCEndpoint": "https://exchainrpc.okex.org"}
+,"HECO": {"Type": "Job:Chain","ChainID": 128,"RPCEndpoint": "https://http-mainnet.hecochain.com"}
+,"CRONOS": {"Type": "Job:Chain","ChainID": 25,"RPCEndpoint": "https://evm.cronos.org"}
+,"BOBA": {"Type": "Job:Chain","ChainID": 288,"RPCEndpoint": "https://mainnet.boba.network"}
+,"XDAI": {"Type": "Job:Chain","ChainID": 100,"RPCEndpoint": "https://rpc.xdaichain.com"}
+,"POLYGON": {"Type": "Job:Chain","ChainID": 137,"RPCEndpoint": "https://polygon-rpc.com"}
+,"PALM": {"Type": "Job:Chain","ChainID": 11297108109,"RPCEndpoint": "https://palm-mainnet.infura.io/v3/"}
+,"DFK": {"Type": "Job:Chain","ChainID": 53935,"RPCEndpoint": "https://subnets.avax.network/defi-kingdoms/rpc"}
+,"AURORA": {"Type": "Job:Chain","ChainID": 1313161554,"RPCEndpoint": "https://mainnet.aurora.dev"}
+,"TELOS": {"Type": "Job:Chain","ChainID": 40,"RPCEndpoint": "https://mainnet.telos.net"}
+,"METIS": {"Type": "Job:Chain","ChainID": 1088,"RPCEndpoint": "https://andromeda.metis.io/?owner=1088"}
+}       

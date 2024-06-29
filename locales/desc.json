@@ -1,0 +1,8 @@
+{
+  "main": {
+    "sample": "This is sample description",
+    "save": "Use to save document",
+    "cargo.add": "Cargo: Add dependency",
+    "cargo.rm": "Cargo: Remove dependency"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "swift.sanitizer": "address",
+    "swift.searchSubfoldersForPackages": true,
+    "swift.backgroundCompilation": true,
+    "swift.sourcekit-lsp.trace.server": "verbose",
+    "swift.path": "c:\\Users\\ELITE\\Documents\\GitHub\\0x-launch-kit\\.vscode",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "go.toolsEnvVars": {
+        "GOTOOLCHAIN": "auto"
+    }
+}
